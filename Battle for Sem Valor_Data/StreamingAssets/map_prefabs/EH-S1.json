@@ -1,0 +1,275 @@
+{
+  "width": 39,
+  "height": 6,
+  "factions": [
+    {
+      "factionId": 0,
+      "tileId": 203,
+      "colorIndex": 15,
+      "name": "NotPirates",
+      "tag": "X",
+      "extraTileIds": []
+    },
+    {
+      "factionId": 1,
+      "tileId": 169,
+      "colorIndex": 1,
+      "name": "something",
+      "tag": "HKV",
+      "extraTileIds": [
+        168,
+        167,
+        170,
+        171,
+        132
+      ]
+    },
+    {
+      "factionId": 2,
+      "tileId": 46,
+      "colorIndex": 12,
+      "name": "Watchers Compact",
+      "tag": "WC",
+      "extraTileIds": [
+        45,
+        84,
+        85,
+        86,
+        47
+      ]
+    },
+    {
+      "factionId": 3,
+      "tileId": 195,
+      "colorIndex": 0,
+      "name": "PLE",
+      "tag": "PLE",
+      "extraTileIds": [
+        196,
+        197,
+        158,
+        157,
+        156,
+        117,
+        118,
+        119,
+        159,
+        198,
+        78,
+        79,
+        80,
+        39,
+        41,
+        42
+      ]
+    },
+    {
+      "factionId": 4,
+      "tileId": 93,
+      "colorIndex": 3,
+      "name": "The Western Technocracy",
+      "tag": "TWT",
+      "extraTileIds": [
+        54,
+        53,
+        92,
+        131,
+        130
+      ]
+    },
+    {
+      "factionId": 5,
+      "tileId": 1,
+      "colorIndex": 13,
+      "name": "Vortex Industries",
+      "tag": "VI",
+      "extraTileIds": [
+        0,
+        40,
+        2,
+        3,
+        4,
+        43,
+        44
+      ]
+    },
+    {
+      "factionId": 6,
+      "tileId": 51,
+      "colorIndex": 5,
+      "name": "MonarchEclipse",
+      "tag": "MEC",
+      "extraTileIds": [
+        50,
+        49,
+        90,
+        91,
+        52
+      ]
+    },
+    {
+      "factionId": 7,
+      "tileId": 213,
+      "colorIndex": 11,
+      "name": "Astarran Stellar Empire",
+      "tag": "ASE",
+      "extraTileIds": [
+        174,
+        135,
+        173,
+        212,
+        211
+      ]
+    },
+    {
+      "factionId": 8,
+      "tileId": 18,
+      "colorIndex": 8,
+      "name": "Rats",
+      "tag": "RMG",
+      "extraTileIds": [
+        57,
+        56,
+        17,
+        16,
+        15
+      ]
+    },
+    {
+      "factionId": 9,
+      "tileId": 126,
+      "colorIndex": 7,
+      "name": "The Knights Republic",
+      "tag": "TKR",
+      "extraTileIds": []
+    },
+    {
+      "factionId": 10,
+      "tileId": 121,
+      "colorIndex": 14,
+      "name": "Eastern Galactic",
+      "tag": "EG",
+      "extraTileIds": [
+        122,
+        161,
+        160,
+        82,
+        81,
+        120
+      ]
+    },
+    {
+      "factionId": 11,
+      "tileId": 184,
+      "colorIndex": 10,
+      "name": "COV",
+      "tag": "COV",
+      "extraTileIds": [
+        145,
+        146,
+        185,
+        224
+      ]
+    },
+    {
+      "factionId": 12,
+      "tileId": 74,
+      "colorIndex": 9,
+      "name": "TRH",
+      "tag": "TRH",
+      "extraTileIds": [
+        73,
+        34,
+        35,
+        74
+      ]
+    },
+    {
+      "factionId": 13,
+      "tileId": 30,
+      "colorIndex": 6,
+      "name": "CIA",
+      "tag": "CIA",
+      "extraTileIds": [
+        70,
+        31,
+        30,
+        69
+      ]
+    },
+    {
+      "factionId": 14,
+      "tileId": 229,
+      "colorIndex": 4,
+      "name": "TLE",
+      "tag": "TLE",
+      "extraTileIds": [
+        228,
+        189,
+        190
+      ]
+    }
+  ],
+  "pirateTileIds": [
+    59,
+    101,
+    178,
+    25,
+    66,
+    143,
+    219,
+    22,
+    137,
+    98,
+    20,
+    60,
+    215,
+    232,
+    38,
+    148
+  ],
+  "voidTileIds": [
+    19,
+    58,
+    97,
+    136,
+    175,
+    214,
+    218,
+    179,
+    180,
+    141,
+    142,
+    103,
+    104,
+    65,
+    26,
+    27,
+    64,
+    102,
+    140,
+    217
+  ],
+  "wormholes": [
+    {
+      "a": 9,
+      "b": 59,
+      "natural": true
+    },
+    {
+      "a": 178,
+      "b": 219,
+      "natural": true
+    },
+    {
+      "a": 101,
+      "b": 143,
+      "natural": true
+    },
+    {
+      "a": 25,
+      "b": 66,
+      "natural": true
+    }
+  ]
+}
