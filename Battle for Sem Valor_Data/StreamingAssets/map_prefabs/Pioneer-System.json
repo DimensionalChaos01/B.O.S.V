@@ -1,0 +1,111 @@
+{
+  "width": 9,
+  "height": 4,
+  "factions": [
+    {
+      "factionId": 0,
+      "tileId": 31,
+      "colorIndex": 0,
+      "name": "PXC",
+      "tag": "PXC",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 1,
+      "tileId": 13,
+      "colorIndex": 1,
+      "name": "The First Detachment",
+      "tag": "TFD",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 2,
+      "tileId": 9,
+      "colorIndex": 2,
+      "name": "Khans United",
+      "tag": "KU",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 3,
+      "tileId": 19,
+      "colorIndex": 6,
+      "name": "Red Riders",
+      "tag": "RR",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 4,
+      "tileId": 2,
+      "colorIndex": 5,
+      "name": "Free Riders",
+      "tag": "FR",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 5,
+      "tileId": 26,
+      "colorIndex": 9,
+      "name": "First Fleet",
+      "tag": "1ST",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    }
+  ],
+  "pirateTileIds": [
+    7,
+    33,
+    29
+  ],
+  "voidTileIds": [],
+  "wormholes": [
+    {
+      "a": 13,
+      "b": 15,
+      "natural": true,
+      "gateA": null,
+      "gateB": null,
+      "bIsMouth": false
+    }
+  ],
+  "nebulaTileIds": [
+    5,
+    14,
+    23,
+    32
+  ],
+  "nestTileIds": [
+    23
+  ],
+  "unpairedGateTileIds": [],
+  "naturalMouthTileIds": []
+}
