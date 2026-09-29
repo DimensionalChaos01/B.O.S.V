@@ -5,9 +5,9 @@
     {
       "factionId": 0,
       "tileId": 31,
-      "colorIndex": 0,
-      "name": "PXC",
-      "tag": "PXC",
+      "colorIndex": 3,
+      "name": "Powder Keg Millitia",
+      "tag": "PKM",
       "extraTileIds": [],
       "aiArchetype": null,
       "aiTraits": null,
@@ -30,11 +30,14 @@
     },
     {
       "factionId": 2,
-      "tileId": 9,
+      "tileId": 0,
       "colorIndex": 2,
       "name": "Khans United",
       "tag": "KU",
-      "extraTileIds": [],
+      "extraTileIds": [
+        0,
+        9
+      ],
       "aiArchetype": null,
       "aiTraits": null,
       "fallenEmpire": false,
@@ -44,9 +47,9 @@
     {
       "factionId": 3,
       "tileId": 19,
-      "colorIndex": 6,
-      "name": "Red Riders",
-      "tag": "RR",
+      "colorIndex": 10,
+      "name": "Pheonix",
+      "tag": "PXC",
       "extraTileIds": [],
       "aiArchetype": null,
       "aiTraits": null,
@@ -56,11 +59,13 @@
     },
     {
       "factionId": 4,
-      "tileId": 2,
+      "tileId": 11,
       "colorIndex": 5,
-      "name": "Free Riders",
-      "tag": "FR",
-      "extraTileIds": [],
+      "name": "Riders",
+      "tag": "RR",
+      "extraTileIds": [
+        2
+      ],
       "aiArchetype": null,
       "aiTraits": null,
       "fallenEmpire": false,
@@ -70,9 +75,61 @@
     {
       "factionId": 5,
       "tileId": 26,
-      "colorIndex": 9,
+      "colorIndex": 15,
       "name": "First Fleet",
       "tag": "1ST",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 6,
+      "tileId": 4,
+      "colorIndex": 14,
+      "name": "Civillian Defense Front",
+      "tag": "CDF",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 7,
+      "tileId": 21,
+      "colorIndex": 7,
+      "name": "VPC",
+      "tag": "VPC",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 8,
+      "tileId": 27,
+      "colorIndex": 8,
+      "name": "WC",
+      "tag": "WC",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
+    },
+    {
+      "factionId": 9,
+      "tileId": 29,
+      "colorIndex": 13,
+      "name": "MC",
+      "tag": "MC",
       "extraTileIds": [],
       "aiArchetype": null,
       "aiTraits": null,
@@ -84,7 +141,7 @@
   "pirateTileIds": [
     7,
     33,
-    29
+    15
   ],
   "voidTileIds": [],
   "wormholes": [
