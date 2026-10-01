@@ -199,6 +199,19 @@
       "fallenEmpire": false,
       "greatEmpire": false,
       "HasCustomAi": true
+    },
+    {
+      "factionId": 13,
+      "tileId": 114,
+      "colorIndex": 0,
+      "name": "Free Riders",
+      "tag": "FR",
+      "extraTileIds": [],
+      "aiArchetype": null,
+      "aiTraits": null,
+      "fallenEmpire": false,
+      "greatEmpire": false,
+      "HasCustomAi": false
     }
   ],
   "pirateTileIds": [
@@ -368,5 +381,6 @@
     87,
     104
   ],
-  "naturalMouthTileIds": []
+  "naturalMouthTileIds": [],
+  "planetTileIds": []
 }
